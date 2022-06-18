@@ -1,0 +1,9 @@
+Arduino UNO  -1 no
+Digilent IR Range Sensor -2 nos
+SparkFun Dual H-Bridge motor drives L298 - 1no
+DC Motor ,12 V - 2 nos
+Power Bank -1 no
+Male to Male and Male to Female jumper wires -1 no
+
+APPS:
+Arduino IDE
